@@ -1,0 +1,22 @@
+References:
+
+Assets:	
+
+	Grass- Texture and Materials - https://assetstore.unity.com/packages/2d/textures-materials/floors/swamp-grass-material-137091
+	Sword - https://assetstore.unity.com/packages/3d/props/weapons/free-katana-and-scabbard-67185
+	Logo - Designed by Akarsh
+
+Sounds: 
+
+	Music - Sword Attack Music Pack - https://assetstore.unity.com/packages/audio/music/sword-attack-music-pack-52081
+
+	Blood Sound - https://assetstore.unity.com/packages/audio/sound-fx/foley/blood-sfx-pack-16107
+	
+Character:
+
+	Knight Pack - https://assetstore.unity.com/packages/3d/characters/humanoids/strong-knight-2-144018
+
+	Knight (Enemy) - https://assetstore.unity.com/packages/3d/characters/humanoids/heavy-knight-pbr-70891
+
+
+
